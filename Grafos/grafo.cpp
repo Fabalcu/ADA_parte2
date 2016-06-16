@@ -4,7 +4,7 @@
 using namespace std;
 
 #define vec vector<vector<pair<int,int> > >
-
+//holi boli :v
 int main()
 {
     int n,m;
